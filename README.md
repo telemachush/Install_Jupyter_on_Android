@@ -29,12 +29,13 @@ Let's dive in.
   `jupyter notebook`  
   
   
-  and you should see something like that in your screen  
-  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Jupyter running")  
+  and you should see something like that in your screen 
+  <img src="https://github.com/telemachosc/Install_Jupyter_on_Android/blob/master/jupyter_running.png" width="540" height="960" />
+  
 5. Then you open your favourite browser and paste the following url
 
 and...  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Jupyter localhost")  
+<img src="https://github.com/telemachosc/Install_Jupyter_on_Android/blob/master/jupyter_localhost.png" width="540" height="960" />
 
 VOILA!
 
