@@ -10,7 +10,7 @@ Let's dive in.
 2. Run the following command to install Python  
 
 
-  `apt install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config`
+   `apt install clang python python-dev fftw libzmq libzmq-dev freetype freetype-dev libpng libpng-dev pkg-config`
   
   
 3. Then this command to install jupyter and the following dependencies  
@@ -20,19 +20,22 @@ Let's dive in.
      I think they are enough but feel free to choose.  
      
      
-  `LDFLAGS=" -lm -lcompiler_rt" pip install jupyter numpy matplotlib pandas`
+   `LDFLAGS=" -lm -lcompiler_rt" pip install jupyter numpy matplotlib pandas`
     
     
 4. You can check if everything is ok by typing  
 
 
-  `jupyter notebook`  
+   `jupyter notebook`  
   
   
   and you should see something like that in your screen 
   <img src="https://github.com/telemachosc/Install_Jupyter_on_Android/blob/master/jupyter_running.png" width="540" height="960" />
   
 5. Then you open your favourite browser and paste the following url
+
+    `localhost:8888`
+
 
 and...  
 <img src="https://github.com/telemachosc/Install_Jupyter_on_Android/blob/master/jupyter_localhost.png" width="540" height="960" />
